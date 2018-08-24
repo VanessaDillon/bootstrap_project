@@ -1,0 +1,12 @@
+.top-bar{
+    background-color: #f5f5f5;
+}
+.top-bar ul{
+    list-style: none;
+    display: inline;
+}
+
+.wholebottom {
+    background-color: #424a4a;
+    color: white;
+}
